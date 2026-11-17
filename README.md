@@ -17,7 +17,7 @@
 
 > **A curated, comprehensive catalog of enterprise-grade SaaS and cutting-edge Open-Source Localhost Tunneling solutions, secure reverse proxies, zero-trust edge tunnels, NAT traversal tools, and webhook testing relays for exposing local dev servers to the world.**
 
-[![GitHub Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Localhost-Private-Network-Tunneling?style=social)](https://github.com/ishandutta2007/Awesome-Localhost-Private-Network-Tunneling/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Localhost-Private-Network-Tunneling?style=social)](https://github.com/ishandutta2007/Awesome-Localhost-Private-Network-Tunneling/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/ishandutta2007/Awesome-Localhost-Private-Network-Tunneling?style=social)](https://github.com/ishandutta2007/Awesome-Localhost-Private-Network-Tunneling/network/members)
 
 </div>
@@ -152,9 +152,9 @@ Self-hosted, open-source tunneling solutions offer absolute data sovereignty, ze
 
 ### ⭐ Open-Source Tunneling Tools Table
 
-*The table is sorted by GitHub Star count in descending order. Every badge directly links to the respective stargazers page.*
+*The table is sorted by GitHub Stars_Count in descending order. Every badge directly links to the respective stargazers page.*
 
-| Project | GitHub Stars (style=social) | Language | Architecture | NAT Traversal Technique | Multi-Tenant Server | Custom Domains & TLS | Primary Use Case |
+| Project | GitHub_Stars (style=social) | Language | Architecture | NAT Traversal Technique | Multi-Tenant Server | Custom Domains & TLS | Primary Use Case |
 |:---|:---:|:---|:---|:---|:---:|:---:|:---|
 | **[frp](https://github.com/fatedier/frp)** | [![Stars](https://img.shields.io/github/stars/fatedier/frp?style=social&color=white)](https://github.com/fatedier/frp/stargazers) | Go | Client / Server | TCP, KCP, QUIC, Multiplexing | ✅ Yes | ✅ Let's Encrypt / Custom | High-performance reverse proxy for internal services |
 | **[nps](https://github.com/ehang-io/nps)** | [![Stars](https://img.shields.io/github/stars/ehang-io/nps?style=social&color=white)](https://github.com/ehang-io/nps/stargazers) | Go | Client / Server | KCP, TCP, UDP, P2P Bridge | ✅ Yes (Web Dashboard) | ✅ Multi-host vhost routing | Full-featured intranet penetration server with web GUI |
