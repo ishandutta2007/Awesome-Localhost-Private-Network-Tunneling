@@ -152,7 +152,7 @@ Self-hosted, open-source tunneling solutions offer absolute data sovereignty, ze
 
 ### ⭐ Open-Source Tunneling Tools Table
 
-*The table is sorted by GitHub Stars_Count in descending order. Every badge directly links to the respective stargazers page.*
+*The table is sorted by GitHub_Stars_Count in descending order. Every badge directly links to the respective stargazers page.*
 
 | Project | GitHub_Stars (style=social) | Language | Architecture | NAT Traversal Technique | Multi-Tenant Server | Custom Domains & TLS | Primary Use Case |
 |:---|:---:|:---|:---|:---|:---:|:---:|:---|
@@ -335,3 +335,12 @@ If you know of an outstanding open-source tunneling utility or commercial ingres
 ## 📄 License
 
 This repository is distributed under the **Creative Commons Zero v1.0 Universal (CC0 1.0)** license (Public Domain Dedication). Software projects, trademarks, and documentation linked herein remain the property of their respective owners.
+
+## Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Localhost-Private-Network-Tunneling&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Localhost-Private-Network-Tunneling_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Localhost-Private-Network-Tunneling_growth.svg">
+  </picture>
+</a>
